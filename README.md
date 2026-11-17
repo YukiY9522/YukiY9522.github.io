@@ -9,3 +9,16 @@ Webサイトの制作に加え、Git・GitHubによるバージョン管理や�
 **URL：** [https://polyfortrain.github.io/](https://polyfortrain.github.io/)
 
 GitHub Pagesを利用して公開しています。
+
+## 使用技術・開発環境
+- フロントエンド...HTML5,CSS3,JavaScript
+- 開発環境...Eclipse IDE
+- バージョン管理...Git/GitHub
+- 開発フロー ...GitHub Flow
+- ホスティング ...GitHub Pages
+
+##開発・バージョン管理
+開発にはGitHub Flowを採用しています
+
+バージョン番号は[Semeantiv Versioning](https://semver.org/lang/ja/)を参考に管理し、
+リリース時にはGitタグとGitHub Releaseを利用します。
