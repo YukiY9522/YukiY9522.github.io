@@ -6,7 +6,7 @@ Webサイトの制作に加え、Git・GitHubによるバージョン管理や�
 
 ## 公開サイト
 
-**URL：** [https://YukiY9522.github.io/](https://polyfortrain.github.io/)
+**URL：** [https://YukiY9522.github.io/](https://YukiY9522.github.io/)
 
 GitHub Pagesを利用して公開しています。
 
